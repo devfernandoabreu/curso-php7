@@ -1,0 +1,15 @@
+{
+    "name": "devgh/composer",
+    "description": "PHP 7",
+    "type": "project",
+    "authors":[
+    	{
+    		"name": "Fernando Abreu",
+    		"email": "fpa1490@gmail.com"
+    	}
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    	"monolog/monolog":"1.0.*"
+    }
+}

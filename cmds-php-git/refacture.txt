@@ -1,0 +1,16 @@
+Git
+
+git init -> inicia o git naquela pasta
+
+git add --all -> enviar os doc para o git
+
+git commit -m "teste" -> commitando os arquivos
+
+git config --global user.email "you@example.com"->inserir o email
+  
+git config --global user.name "Your Name"->inserir o nome
+
+git remote add origin "url do git"-> add em uma pasta no github
+
+git push origin master -> enviando os arquivo para o git
+
